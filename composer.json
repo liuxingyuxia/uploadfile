@@ -1,0 +1,19 @@
+{
+    "name": "liuyanxia/hello",
+    "description": "ceshi 文件",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zjn",
+            "email": "2535596461@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload" : {
+        "psr-4" : {
+            "liuyan\\": "src/"
+        }
+    }
+}
